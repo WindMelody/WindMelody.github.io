@@ -6,7 +6,8 @@
     <entry>
       <title><![CDATA[first]]></title>
       <url>https://windmelody.github.io/2016/07/12/first/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>hello world</p>
+]]></content>
     </entry>
     
     <entry>
